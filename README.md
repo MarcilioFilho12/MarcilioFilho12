@@ -7,7 +7,7 @@
 - 👯 I’m looking to learn..learn and learn
 - 🤔 I’m looking for help with to find my place within this universe
 - 💬 Ask me about I can help solve your problem
-- 📫 How to reach me: <a href="</div>https://www.linkedin.com/in/marcilio-filho1110/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:marciliochu@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://instagram.com/marciliofilhooficial" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+- 📫 How to reach me:<div> <a href="https://www.linkedin.com/in/marcilio-filho1110/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:marciliochu@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://instagram.com/marciliofilhooficial" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </div>
 - 😄 Pronouns: you/He
 - ⚡ Fun fact: I'm very creative and I'd love to have ideas about games, stories and characters... I'm looking forward to turning my ideas into codes.
 -->

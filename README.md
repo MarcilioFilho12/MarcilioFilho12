@@ -1,18 +1,55 @@
-# 👋 Hello! Welcome to my Github profile.
-## My name is Marcílio Alano and my nickname is "MarcilioFilho12"!
+👨‍💻 Marcílio Alano Filho
+Front-end Developer · Software Development · Creative Problem Solver
+Turning ideas into digital experiences.
+
+I'm a developer focused on building web applications with clean interfaces, thoughtful user experiences, and practical solutions to real-world problems.
+
+I enjoy exploring the intersection of technology, design, and creativity — from developing interactive interfaces to integrating APIs and improving existing applications.
+
+Currently completing my degree in Information Technology Management at UNISUL, while continuously developing my skills and building projects that challenge me to grow.
+🚀 About Me
+- 💻 Focused on Front-end Development and modern web technologies.
+- ⚛️ Building interfaces with React, JavaScript, and TypeScript.
+- 🔌 Experienced with REST API integration, debugging, and application improvements.
+- 🎨 Interested in UI/UX, interactive experiences, animations, and creative web development.
+- 🧠 Always learning, experimenting, and improving my approach to software development.
+- 🎯 Open to opportunities where I can contribute, collaborate, and grow as a developer.
+🛠️ Tech Stack
+Front-end Development
 
 
-- 🔭 I currently , i am freelancer
-- 🌱 I’m Front-end Developer
-- 👯 I’m looking to learn..learn and learn
-- 🤔 I’m looking  work ,work, work
-- 💬 Ask me about I can help solve your problem
-- 📫 How to reach me:<div> <a href="https://www.linkedin.com/in/marcilio-filho1110/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><a href = "mailto:marciliochu@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a><a href="https://instagram.com/marciliofilhooficial" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> </div>
-- 😄 Pronouns: you/He
-- ⚡ Fun fact: I'm very creative and I'd love to have ideas about games, stories and characters... I'm looking forward to turning my ideas into codes.
-<div>
-<a href="https://github.com/MarcilioFilho12">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcilioFilho12&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=MarcilioFilho12&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+
+
+
+
+Back-end & APIs
+
+
+
+
+Tools & Workflow
+
+
+
+
+
+🧩 Featured Projects
+Take a look at my repositories to explore my work, experiments, and progress as a developer.
+
+🔹 Guerra Ninja — Creative project development and experimentation.
+
+🔹 My GitHub Repositories — Explore my code, projects, and ongoing learning journey.
+📊 GitHub Analytics
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MarcilioFilho12&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="Marcílio's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcilioFilho12&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </div>
 
+🤝 Let's Connect
+I'm open to connecting with developers, collaborating on projects, and exploring new opportunities.
+
+
+
+<p align="center">
+  <i>"Great software starts with curiosity, grows through experimentation, and gets better with every iteration."</i>
+</p>

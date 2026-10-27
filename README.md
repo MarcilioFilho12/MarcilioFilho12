@@ -3,7 +3,7 @@
 
 
 - 🔭 I currently , i am freelancer
-- 🌱 I’m currently learning programming within information technology
+- 🌱 I’m Front-end Developer
 - 👯 I’m looking to learn..learn and learn
 - 🤔 I’m looking for help with to find my place within this universe
 - 💬 Ask me about I can help solve your problem
